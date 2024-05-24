@@ -10,3 +10,10 @@ https://ulsurvey.uni.lu/index.php/723213?lang=en
 ## ULHPC price list
 https://hpc-docs.uni.lu/policies/usage-charging/
 
+## Computational resources used
+Command line:  salloc -p interactive --qos debug -C batch --ntasks-per-node 28 -t 02:00:00 bash -c 'ssh -X $(scontrol show hostnames | head -n 1)' 
+* Cluster: iris 
+* Type of node: regular
+* Partition: interactive
+* Cores per node: 28
+
