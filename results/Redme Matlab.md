@@ -4,4 +4,4 @@ We recommend to use a larger data set with quantitative and qualitative informat
 Matlab app is very useful to investigate which model perform the best and fine tune it.
 ## Code for prof of use of concept
 Due to lack of quantitative and qualitative data our code regression model should be only used
-of concept.
+of concept. Code is in src folder.
