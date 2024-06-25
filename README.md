@@ -2,7 +2,7 @@
 
 ### Overview
 
-This repository contains the code and data related to the master's thesis project titled "New algorithm for medication optimization using regression method for Parkinson’s disease with EEG and sample entropy" by Filipe António Da Silva at the University of Luxembourg.
+This repository contains the code and data related to the master's thesis.
 
 The project focuses on the impact of electroencephalography (EEG) and drug monitoring in the diagnosis and treatment of Parkinson's Disease (PD). The goal is to demonstrate the potential use of EEG for evaluating medications in PD and highlight the limitations of currently available public datasets.
 
