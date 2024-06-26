@@ -7,12 +7,13 @@ This repository contains the code and data related to the master's thesis.
 The project focuses on the impact of electroencephalography (EEG) and drug monitoring in the diagnosis and treatment of Parkinson's Disease (PD). The goal is to demonstrate the potential use of EEG for evaluating medications in PD and highlight the limitations of currently available public datasets.
 
 ### Original code
-The original code is linked to the work "An open-source EEGLAB plugin forcomputingentropy-based measures on MEEG signals" and it can be download:
+The original code is linked to the work "An open-source EEGLAB plugin for computing entropy-based measures on MEG signals" and it can be download:
 https://osf.io/preprints/psyarxiv/xwmyk
 
 ### Original data set
 By the Cognitive Rhythms and Computation Lab at University of New Mexico
 https://openneuro.org/datasets/ds003490/versions/1.1.0
+For the second data set each PD patient was divided in 4 sub set of 52 seconds.
 
 ### Abstract
 
