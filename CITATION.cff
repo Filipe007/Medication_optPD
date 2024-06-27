@@ -1,20 +1,41 @@
-@article{VERHEIJ2008228,
-title = {Twenty years of dopamine research: Individual differences in the response of accumbal dopamine to environmental and pharmacological challenges},
-journal = {European Journal of Pharmacology},
-volume = {585},
-number = {2},
-pages = {228-244},
-year = {2008},
-note = {100 Years of Pharmacology in The Netherlands},
-issn = {0014-2999},
-doi = {https://doi.org/10.1016/j.ejphar.2008.02.084},
-url = {https://www.sciencedirect.com/science/article/pii/S0014299908002781},
-author = {Michel M.M. Verheij and Alexander R. Cools},
-}
-
-@article{cannard2022,
-  title={An open-source EEGLAB plugin for computing entropy-based measures on MEEG signals},
-  author={Cannard, Cedric and Delorme, Arnaud},
-  year={2022},
-  publisher={PsyArXiv}
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Verheij
+    given-names: Michel M.M.
+  - family-names: Cools
+    given-names: Alexander R.
+  - family-names: Cannard
+    given-names: Cedric
+  - family-names: Delorme
+    given-names: Arnaud
+title: "Medication_optPD"
+version: 1.0.0
+date-released: 2024-06-27
+references:
+  - type: article
+    authors:
+      - family-names: Verheij
+        given-names: Michel M.M.
+      - family-names: Cools
+        given-names: Alexander R.
+    title: "Twenty years of dopamine research: Individual differences in the response of accumbal dopamine to environmental and pharmacological challenges"
+    journal: "European Journal of Pharmacology"
+    volume: "585"
+    issue: "2"
+    pages: "228-244"
+    year: "2008"
+    note: "100 Years of Pharmacology in The Netherlands"
+    issn: "0014-2999"
+    doi: "https://doi.org/10.1016/j.ejphar.2008.02.084"
+    url: "https://www.sciencedirect.com/science/article/pii/S0014299908002781"
+  - type: article
+    authors:
+      - family-names: Cannard
+        given-names: Cedric
+      - family-names: Delorme
+        given-names: Arnaud
+    title: "An open-source EEGLAB plugin for computing entropy-based measures on MEEG signals"
+    journal: "PsyArXiv"
+    year: "2022"
+    url: "https://psyarxiv.com/xwmyk"
