@@ -10,10 +10,12 @@ The project focuses on the impact of electroencephalography (EEG) and drug monit
 The original code is linked to the work "An open-source EEGLAB plugin for computing entropy-based measures on MEG signals" and it can be download:
 https://osf.io/preprints/psyarxiv/xwmyk
 
-### Original data set
+### Data set in file FilipeDatasetv1
 By the Cognitive Rhythms and Computation Lab at University of New Mexico
 https://openneuro.org/datasets/ds003490/versions/1.1.0
-For the second data set each PD patient was divided in 4 sub set of 52 seconds.
+For the second data set each PD patient was divided in 4 sub set of 52 seconds, in the file FilipeDataset_PDsubdivided
+
+### Data set in file FilipeDatasetv3
 
 ### Abstract
 
