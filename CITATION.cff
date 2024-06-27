@@ -1,0 +1,20 @@
+@article{VERHEIJ2008228,
+title = {Twenty years of dopamine research: Individual differences in the response of accumbal dopamine to environmental and pharmacological challenges},
+journal = {European Journal of Pharmacology},
+volume = {585},
+number = {2},
+pages = {228-244},
+year = {2008},
+note = {100 Years of Pharmacology in The Netherlands},
+issn = {0014-2999},
+doi = {https://doi.org/10.1016/j.ejphar.2008.02.084},
+url = {https://www.sciencedirect.com/science/article/pii/S0014299908002781},
+author = {Michel M.M. Verheij and Alexander R. Cools},
+}
+
+@article{cannard2022,
+  title={An open-source EEGLAB plugin for computing entropy-based measures on MEEG signals},
+  author={Cannard, Cedric and Delorme, Arnaud},
+  year={2022},
+  publisher={PsyArXiv}
+}
