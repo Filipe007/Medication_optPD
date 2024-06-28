@@ -56,3 +56,4 @@ https://www.sciencedirect.com/science/article/abs/pii/S0014299908002781.
 The limitations of both quantitative and qualitative datasets played a crucial role, as researchers we are constrained by the available public EEG datasets.
 The dataset used does not include activities of daily living (ADL), blood tests, and recurrent visits of the patients.
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
