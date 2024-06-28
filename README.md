@@ -1,5 +1,12 @@
 # Medication_optPD
 
+![Build Status](https://img.shields.io/badge/Build-PoC-brightgreen)
+![License: CC](https://img.shields.io/badge/License-CC-yellow.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+
+
+
+
 ## Overview
 This repository contains the code and data related to the master's thesis. The project focuses on the impact of electroencephalography (EEG) and drug monitoring in the diagnosis and treatment of Parkinson's Disease (PD). The goal is to demonstrate the potential use of EEG for evaluating medications in PD and highlight the limitations of currently available public datasets.
 
@@ -55,5 +62,3 @@ https://www.sciencedirect.com/science/article/abs/pii/S0014299908002781.
 ### Limitations
 The limitations of both quantitative and qualitative datasets played a crucial role, as researchers we are constrained by the available public EEG datasets.
 The dataset used does not include activities of daily living (ADL), blood tests, and recurrent visits of the patients.
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
