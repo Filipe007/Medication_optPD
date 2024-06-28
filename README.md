@@ -34,7 +34,8 @@ https://narayanan.lab.uiowa.edu/article/datasets
 Associated with the paper: Resting-state EEG measures cognitive impairment in Parkinson’s disease.
 Meta data was used to run a multi-layer perceptron (MLP) in MATLAB.
 ### Original Code
-The original code is linked to the work "An open-source EEGLAB plugin for computing entropy-based measures on MEG signals" and can be downloaded here.
+The original code is linked to the work "An open-source EEGLAB plugin for computing entropy-based measures on MEG signals" https://osf.io/preprints/psyarxiv/xwmyk and can be downloaded
+https://github.com/amisepa.
 
 ### Materials and Methods
 Two studies were conducted. The first one involved analyzing medication using sample
