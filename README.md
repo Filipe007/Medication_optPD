@@ -1,6 +1,6 @@
 # Medication_optPD
 
-![Build Status](https://img.shields.io/badge/Build-PoC-brightgreen)
+![Build Status](https://img.shields.io/badge/Build-Proof_of_Concept_(PoC)-brightgreen)
 ![License: CC](https://img.shields.io/badge/License-CC-yellow.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
