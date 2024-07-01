@@ -30,8 +30,8 @@ Each PD patient was divided into 4 subsets of 52 seconds, available in the file 
 By the University of Iowa
 
 Dataset link:
-https://narayanan.lab.uiowa.edu/article/datasets
-Associated with the paper: Resting-state EEG measures cognitive impairment in Parkinson’s disease.
+https://narayanan.lab.uiowa.edu/article/datasets.
+Associated with the paper: _Resting-state EEG measures cognitive impairment in Parkinson’s disease_.
 Meta data was used to run a multi-layer perceptron (MLP) in MATLAB.
 ### Original Code
 The original code is linked to the work "An open-source EEGLAB plugin for computing entropy-based measures on MEG signals" https://osf.io/preprints/psyarxiv/xwmyk and can be downloaded
@@ -56,8 +56,8 @@ The results demonstrated that SampEn is a reliable method for detecting the impa
 
 Based on current research, it is not possible to develop a regression model to predict LEDD because there are no 
 biomarkers and blood test data that provide detailed insights into the LEDD processes for each individual patient.
-It corroborates the findings from paper: Twenty years of dopamine research: individual differences
-in the response of accumbal dopamine to environmental and pharmacological challenge.
+It corroborates the findings from paper: _Twenty years of dopamine research: individual differences
+in the response of accumbal dopamine to environmental and pharmacological challenge._
 https://www.sciencedirect.com/science/article/abs/pii/S0014299908002781.
 
 ### Limitations
