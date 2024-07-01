@@ -13,7 +13,7 @@ This repository contains the code and data related to the master's thesis. The p
 ### Abstract
 Parkinson’s disease (PD) detection remains an ongoing challenge as there is no specific test for its diagnosis. Recent advancements in machine learning (ML) have shown great potential in medical applications. This project explores the use of EEG and sample entropy (SampEn) in detecting and optimizing medication for PD. The study aims to address the high costs associated with current diagnostic tests like MRI, CT, and DAT-scan, and present EEG as a cost-effective alternative.
 
-### First Data Sets FilipeDatasetv1
+### First Datasets: FilipeDatasetv1
 By the Cognitive Rhythms and Computation Lab at University of New Mexico
 
 Dataset link:
