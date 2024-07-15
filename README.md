@@ -20,10 +20,6 @@ Dataset link:
 https://www.sciencedirect.com/science/article/abs/pii/S0006899319305955
 This dataset is referenced as FilipeDatasetv1.
 
-### Second dataset: FilipeDataset_PDsubdivided
-It is linked to the data set FilipeDatasetv1.
-Each PD patient was divided into 4 subsets of 52 seconds, available in the file FilipeDataset_PDsubdivided.
-
 
 ### Third dataset: FilipeDatasetv3
 By the University of Iowa
